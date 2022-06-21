@@ -20,4 +20,4 @@
 
 
 
-[file]([13 giugno.xlsx](https://github.com/FabioMinicozzi0/IFTS-Fuzzy/files/8949717/13.giugno.xlsx)
+[exel fisciano]([13 giugno.xlsx](https://github.com/FabioMinicozzi0/IFTS-Fuzzy/files/8949717/13.giugno.xlsx)
