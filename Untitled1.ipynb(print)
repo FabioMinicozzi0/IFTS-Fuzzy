@@ -1,0 +1,138 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled1.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyMc0SbHriAWVHh2ZJ/GLxqu",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/FabioMinicozzi0/IFTS-Fuzzy/blob/main/Untitled1.ipynb(print)\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 5,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "ZBuFY6cTtWib",
+        "outputId": "cc999b7c-fb84-44e0-f85c-5c755e076444"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "ciao\n",
+            " ciao\n"
+          ]
+        }
+      ],
+      "source": [
+        "if 3<4:\n",
+        "  print(\"ciao\\n ciao\")\n",
+        "  "
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        ""
+      ],
+      "metadata": {
+        "id": "hbAt5R1H7geL"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#test\n"
+      ],
+      "metadata": {
+        "id": "y_w8s__07dSd"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "if int(input(\"inserisci un valore\"))<4:\n",
+        "  print(\"ciao\\n ciao\")\n",
+        "  "
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "-SkUR0Sw7hnK",
+        "outputId": "85f54165-08de-4391-f5f6-1c9e4cb65913"
+      },
+      "execution_count": 7,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "inserisci un valore2\n",
+            "ciao\n",
+            " ciao\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#test"
+      ],
+      "metadata": {
+        "id": "l56ixYeE8XSf"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "if int(input())<4:\n",
+        "  print(\"ciao\\n ciao\")\n",
+        "  "
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "DIDQSIwo8ZqH",
+        "outputId": "1ca1fca4-9c63-4b87-ab60-0d0ca20b1f72"
+      },
+      "execution_count": 13,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "2\n",
+            "ciao\n",
+            " ciao\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
